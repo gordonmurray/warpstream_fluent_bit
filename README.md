@@ -2,6 +2,8 @@
 
 A quick example to see if fluent bit can send logs to WarpSteam, an s3 based alternative to Kafka.
 
+![WarpStream screenshot of logs in an nginx topic](warpstream.png "WarpStream screenshot of logs in an nginx topic")
+
 The following was tested on Ubuntu 22.04
 
 Install nginx
